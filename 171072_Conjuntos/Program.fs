@@ -21,7 +21,7 @@
 
 open System
 
-//  Define Three sets
+//  Definition of Three sets
 let A = Set.empty.Add(1).Add(2).Add(3).Add(4). Add(5)
 let B = Set.empty.Add(3).Add(4).Add(5).Add(6). Add(7)
 let C = Set.empty
@@ -35,7 +35,7 @@ let main argv =
 
     printfn"\n- Pertenencia\n"
     let pertenencia=
-        if A.Contains 1 then printfn(" 1 exists in A")  // A conditional checks if one element is a member of a given Set
+        if A.Contains 1 then printfn(" 1 exists in A")  //  A conditional checks if one element is a member of a given Set
         if not (A.Contains 1) then printfn("1 does not exist in A")
         if A.Contains 10 then printfn("10 exists in A")
         if not (A.Contains 10) then printfn ("10 does not exist in A")
@@ -54,7 +54,7 @@ let main argv =
     let quitar=
         let A = Set.empty.Add(0).Add(1).Add(2).Add(3).Add(4).Add(5). Add(6)
         printfn"Set A: %A" A
-        let A = A.Remove (2)    // An element is removed from a Set
+        let A = A.Remove (2)    //  An element is removed from a Set
         printfn"Set A after removal of the number 2: %A" A
     
     printfn"\n- Clear Set\n"
