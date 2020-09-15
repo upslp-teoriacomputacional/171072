@@ -38,6 +38,13 @@ This was a confunsing question because I know that this can be quickly checked b
 the input (elements in a set) present in the code; but I don't know how to reduce/optimize the algorithm by being only assignations, declarations 
 and equalizations present in different lines.
 
+##Solutions
+I found an equivalent method for performing the Symmetric  Difference in F# at <a href="https://rosettacode.org/wiki/Symmetric_difference#F.23" target="\_blank"> (Symmetric Difference in F#).
+In this method, the summation of two differences must be executed in order for this method to be equivalent to other programming languages.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
 ## Source Code
 
 ```F#
@@ -157,9 +164,4 @@ let main argv =
         if not (B.IsSupersetOf A) then printfn ("B is not a Superset of A")
     0 // return an integer exit code
 
-##Solutions
-I found an equivalent method for performing the Symmetric  Difference in F# at <a href="https://rosettacode.org/wiki/Symmetric_difference#F.23" target="\_blank"> (Symmetric Difference in F#).
-In this method, the summation of two differences must be executed in order for this method to be equivalent to other programming languages.
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
