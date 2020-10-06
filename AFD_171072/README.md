@@ -4,11 +4,11 @@
  *        Name:    Rodolfo Emanuel Vázquez Reyes
  *          ID:    171072
  *       Major:    IT Engineering
- * Institution:    Universidad Politécnica de San Luis Potosí
- *   Professor:    Juan Carlos González Ibarra
- * Description:    F# language program to perform FDA.
+ *      Institution:    Universidad Politécnica de San Luis Potosí
+ *      Professor:    Juan Carlos González Ibarra
+ *      Description:    F# language program to perform FDA.
  *                
- *  Written:       06/09/2020
+ *      Written:       06/09/2020
 
 
 This was my third F# program directly translated from Python. 
@@ -25,10 +25,10 @@ For running this program I used .NET tools.
 I ran this program from a Git Bash console; the terminal must be opened in the location of the program and .Net must also
 be installed on the system. The command "dotnet run" must be used for the program to be executed. 
 
-##Solutions
-
+## Solutions
+## Link 1
 I found information on how to check Regular Expressions by character input in F# at <a href="https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions?view=netcore-3.1" target="\_blank"> (Regular Expressions in F#).
-
+## Link 2
 I read some examples on forums and I read something about "mutable variables". I learned how to 
 use them at. <a href="https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/values/#:~:text=of%20functional%20programming.-,Mutable%20Variables,be%20modified%20in%20incorrect%20ways." target="\_blank"> (Mutable Variables in F#).
 
