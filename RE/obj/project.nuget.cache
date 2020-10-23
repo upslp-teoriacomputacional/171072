@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jH9TkzTXYXO0j01CMelecBxekzpbTcoMyDIdVRmOd3Fab80Pf+irWEkPzsLaorsgFOiRqnChGpHxDj/AdU7C2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\RE\\RE.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vazqu\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
