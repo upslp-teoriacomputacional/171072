@@ -25,3 +25,11 @@ C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semes
 C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\afd\obj\Debug\netcoreapp3.1\afd.fsproj.CopyComplete
 C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\afd\obj\Debug\netcoreapp3.1\afd.dll
 C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\afd\obj\Debug\netcoreapp3.1\afd.pdb
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\bin\Debug\netcoreapp3.1\afd.exe
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\bin\Debug\netcoreapp3.1\afd.deps.json
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\bin\Debug\netcoreapp3.1\afd.runtimeconfig.json
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\bin\Debug\netcoreapp3.1\afd.runtimeconfig.dev.json
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\obj\Debug\netcoreapp3.1\afd.AssemblyInfoInputs.cache
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\obj\Debug\netcoreapp3.1\afd.AssemblyInfo.fs
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\obj\Debug\netcoreapp3.1\afd.fsproj.CoreCompileInputs.cache
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\AFD_171072\obj\Debug\netcoreapp3.1\afd.genruntimeconfig.cache

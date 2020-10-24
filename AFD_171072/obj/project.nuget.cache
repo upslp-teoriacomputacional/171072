@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zs3sVnvkRmuO57B0H/GCeFXQmAgYhr36VIQfk/7oU7ETJAOyj1g7YhRRLnRSMryflaHvbENsquG8VTCRUF9Shw==",
+  "dgSpecHash": "G/1oqaaSkI6k2ZTyw5oPOM9Wx8BRGYr8Pkbo/d0fp0U++F0AeIy0QfNYDknJ99qwhFv+xTTNJeGumZTHE3rxNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\afd\\afd.fsproj",
+  "projectFilePath": "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\AFD_171072\\afd.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\vazqu\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
   ],

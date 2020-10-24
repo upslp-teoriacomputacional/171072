@@ -1,17 +1,49 @@
-﻿(*
- * *****************************************************************************
- *        Name:    Rodolfo Emanuel   
- *     Surname:    Vázquez Reyes
- *          ID:    171072
- *       Major:    IT Engineering
- * Institution:    Universidad Politécnica de San Luis Potosí
- *   Professor:    Juan Carlos González Ibarra
- * Description:    F# language program to show Regular Expressions
- *                
- *  Written:       22/10/2020
- *  Last updated:  23/10/2020
- **************************************************************************** *)
+## F# Program about Finite Non - Deterministic Automaton
 
+ *              Name:    Rodolfo Emanuel Vázquez Reyes
+ *             Major:    IT Engineering
+ *       Institution:    Universidad Politécnica de San Luis Potosí
+ *         Professor:    Juan Carlos González Ibarra
+ *       Description:    F# language program to perform Non-Deterministic Finite Automaton.         
+ *           Written:    23/09/2020
+
+## About this Program 
+This was the fifth F# program directly translated from Python .
+
+The purpose of this program was to illustrate how regular expressions work in branches such as lexicographic analyzers and compilers. 
+
+For me, this program was not so difficult to modify since this program originally was only 43 lines long. 
+
+For running this program I used .NET tools.
+I ran this program from a Git Bash console; the terminal must be opened in the location of the program and .Net must also
+be installed on the system. The command "dotnet run" must be used for the program to be executed. 
+
+## Solutions
+
+
+## Link 1
+[ This article ](http://swtch.com/~rsc/regexp/regexp1.html)
+simply explains regular Expressions used in different NFAs across different programming languages. 
+
+## Link 2
+I found information on how to check Regular Expressions by character input in F# at [ Regular Expressions in F# ](https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions?view=netcore-3.1).
+
+## Link 3
+This is a [source language](http://t0yv0.blogspot.com/2011/02/home-made-regular-expressions-in-f.html) that shows how to immplement a NFA in F#. First, the regular expressions themselves: the source language can be nicely described with a union type, encompassing the empty string, choice, concatenation, the Kleene star, and a token parser.
+
+
+## Link 4
+I read some examples on forums and I read something about "mutable variables". I learned how to 
+use them at [Mutable variables in F#]( https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/values/#:~:text=of%20functional%20programming.-,Mutable%20Variables,be%20modified%20in%20incorrect%20ways. ).
+
+
+## OUTPUT FROM TERMINAL
+After a short time, the regular expression checker was a success!
+Input "variable"
+<img src="images/dotnetrun.png"> 
+
+## Source Code
+```F#
 open System.Text.RegularExpressions  //  Regular expressions Library must be included for performing regex expressions. 
 open System
 
@@ -31,7 +63,7 @@ let mutable tokens = []     //  For String tokens
 let sourceCode = "float absoluteMagnitude = 26;".Split(' ')  // A sample "source code" line is given. This will be evaluated
 
 for word in sourceCode do  // A for loop is requiered for each character to be evaluated. 
-    if List.exists ((=)word) ["float";"str"; "int"; "bool"] then //  This line checks for the data type
+    if List.exists ((=)word) ["float"; "str"; "int"; "bool"] then //  This line checks for the data type
         tokens <- List.append tokens [word]
     elif Regex.IsMatch(word, "[A-Za-z]") then //  This line checks the name of the given variable
         tokens <- List.append tokens [word]
@@ -58,3 +90,6 @@ let variablePROLOG(w : byref<string>) : bool=  /// We must write another functio
 let main argv =
     printfn " LINE OF CODE: ^ "
     0 // return an integer exit code
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
