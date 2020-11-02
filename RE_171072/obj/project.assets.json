@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\RE\\RE.fsproj",
+      "projectUniqueName": "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\RE_171072\\RE.fsproj",
       "projectName": "RE",
-      "projectPath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\RE\\RE.fsproj",
+      "projectPath": "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\RE_171072\\RE.fsproj",
       "packagesPath": "C:\\Users\\vazqu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\RE\\obj\\",
+      "outputPath": "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\RE_171072\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vazqu\\AppData\\Roaming\\NuGet\\NuGet.Config"

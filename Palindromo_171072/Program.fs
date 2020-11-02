@@ -12,16 +12,26 @@
  *  Last updated:  02/11/2020
  **************************************************************************** *)
 open System
+let bool result 
+string testString = ""
 
+let isPalindrome (s: string) =
+   let arr = s.ToCharArray()
+   arr = Array.rev arr
+
+(*
 let isPalindrome str = 
     let str = str |> Seq.filter ((<>) ' ') |> Seq.toList
     str = (str |> List.rev)
+*)
 
-["abc ba"; "abcba"; "a"; "aaba"; ""] 
-|> List.map (fun x -> x, isPal x)
 
 [<EntryPoint>]
 let main argv =
-    printfn "Input a string"
+    printfn "Input a string: "
+    let testString = System.Console.ReadLine();
+    let result = isPalindrome(testString)
+    printfn "Is %i" + testString + "a palindrome? : %b" + result
     
+
     0 // return an integer exit code

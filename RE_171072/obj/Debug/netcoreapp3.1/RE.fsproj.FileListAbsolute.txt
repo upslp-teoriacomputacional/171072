@@ -25,3 +25,11 @@ C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semes
 C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE\obj\Debug\netcoreapp3.1\RE.fsproj.CopyComplete
 C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE\obj\Debug\netcoreapp3.1\RE.dll
 C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE\obj\Debug\netcoreapp3.1\RE.pdb
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\bin\Debug\netcoreapp3.1\RE.exe
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\bin\Debug\netcoreapp3.1\RE.deps.json
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\bin\Debug\netcoreapp3.1\RE.runtimeconfig.json
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\bin\Debug\netcoreapp3.1\RE.runtimeconfig.dev.json
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\obj\Debug\netcoreapp3.1\RE.AssemblyInfoInputs.cache
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\obj\Debug\netcoreapp3.1\RE.AssemblyInfo.fs
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\obj\Debug\netcoreapp3.1\RE.fsproj.CoreCompileInputs.cache
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\RE_171072\obj\Debug\netcoreapp3.1\RE.genruntimeconfig.cache
