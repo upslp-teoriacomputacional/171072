@@ -1,0 +1,8 @@
+C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\bin\Debug\netcoreapp3.1\Palindromo_171072.exe
+C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\bin\Debug\netcoreapp3.1\Palindromo_171072.deps.json
+C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\bin\Debug\netcoreapp3.1\Palindromo_171072.runtimeconfig.json
+C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\bin\Debug\netcoreapp3.1\Palindromo_171072.runtimeconfig.dev.json
+C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\obj\Debug\netcoreapp3.1\Palindromo_171072.AssemblyInfoInputs.cache
+C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\obj\Debug\netcoreapp3.1\Palindromo_171072.AssemblyInfo.fs
+C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\obj\Debug\netcoreapp3.1\Palindromo_171072.genruntimeconfig.cache
+c:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\Palindromo_171072\obj\Debug\netcoreapp3.1\Palindromo_171072.fsproj.CoreCompileInputs.cache
