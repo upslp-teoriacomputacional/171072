@@ -12,31 +12,26 @@
  *  Last updated:  04/11/2020
  **************************************************************************** *)
  
-open System
-//  Nice try 
+open System //  Nice try  No me copies, por favor (-:
 
-/// No me copies, por favor (-:
 let isPalindrome (testString: string) =
-    let array = testString.ToCharArray() // Saves the string as an array to 'array' variable
-    let size = testString.Length //  Saves the length of the input to 'size' variable
-    printfn "Normal Array : %A" array  //  Shows how the program interprets the character
+    let trimString = testString.Replace(" ", ""); //  Removes spaces if it finds spaces.
+    let array = trimString.ToCharArray()// Saves the string as an array to 'array' variable
+    
+    printfn "\nTrimmed String: %A \n" trimString  //  Shows how the program interprets the character
     let reverse = Array.rev array // Reverse will be used to show the array in reverse
-    printfn "Reverse Array: %A" reverse  // Prints the array in reverse
+    printfn "Array in reverse: %A\n" reverse  // Prints the array in reverse
 
-    if array=reverse then
-        printf "The string %A is a palindrome!" testString
-    else printf "The string %A is not a palindrome" testString 
-  
-   (*
-let isPalindrome str = 
-    let str = str |> Seq.filter ((<>) ' ') |> Seq.toList
-    str = (str |> List.rev)
-*)
+    if array=reverse then  //   if  condition to perform a comparison between both variables 
+        printf "\n\nThe string: %A is a palindrome!\n\n\n" testString  //  if true, shows a positive message
+    else printf "\n\nThe string: %A is not a palindrome\n\n\n" testString // else, shows that the string was not a palindrome. 
 
 [<EntryPoint>]
 let main argv =
-    printfn "Input a string without spaces: "
+    printfn " ----------------- "
+    printfn "| Input a string: |"
+    printfn " ----------------- "
     let testString = System.Console.ReadLine() //  Reads user input 
-    isPalindrome(testString) //  calls to the 'isPalindrome Function'
-
+    isPalindrome(testString) //  calls to the 'isPalindrome' Function
+    
     0 // return an integer exit code
