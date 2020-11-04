@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj": {}
+    "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj": {}
   },
   "projects": {
-    "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj": {
+    "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj",
+        "projectUniqueName": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj",
         "projectName": "Palindromo_171072",
-        "projectPath": "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj",
+        "projectPath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\Palindromo_171072.fsproj",
         "packagesPath": "C:\\Users\\vazqu\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\obj\\",
+        "outputPath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\Palindromo_171072\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vazqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
