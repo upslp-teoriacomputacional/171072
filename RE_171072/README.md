@@ -1,4 +1,4 @@
-## F# Program about Finite Non - Deterministic Automaton
+## F# Program about Regular Expressions
 
  *              Name:    Rodolfo Emanuel Vázquez Reyes
  *             Major:    IT Engineering
