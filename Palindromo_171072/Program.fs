@@ -12,7 +12,7 @@
  *  Last updated:  04/11/2020
  **************************************************************************** *)
  
-open System //  Nice try  No me copies, por favor (-:
+open System 
 
 let isPalindrome (testString: string) =
     let trimString = testString.Replace(" ", ""); //  Removes spaces if it finds spaces.

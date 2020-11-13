@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zfm5Gtgtg/M6iMkYDsEES9ZMIWkBvLLZ8JQUDPGUvZ8NqQd3EM/wK8qaHdhWf6phVwIXhLxU0W4kZZIw9N9TUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\PushDownAutomata-171072\\PushDownAutomata-171072.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vazqu\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

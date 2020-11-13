@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "afd/1.0.0": {
+      "PushDownAutomata-171072/1.0.0": {
         "dependencies": {
           "FSharp.Core": "4.7.2"
         },
         "runtime": {
-          "afd.dll": {}
+          "PushDownAutomata-171072.dll": {}
         }
       },
       "FSharp.Core/4.7.2": {
@@ -66,7 +66,7 @@
     }
   },
   "libraries": {
-    "afd/1.0.0": {
+    "PushDownAutomata-171072/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
