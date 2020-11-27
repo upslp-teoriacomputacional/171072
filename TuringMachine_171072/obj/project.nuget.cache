@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hGPLNdOTRxMsTHlIGQdWap/EKEAoA/X3lcysdwcZrOvTNfEPNmJtdXPY8HEi/ypLKTND5ScVVtVr9vrfmticUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\TuringMachine_171072\\TuringMachine_171072.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vazqu\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
