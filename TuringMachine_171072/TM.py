@@ -51,7 +51,7 @@ def turing_M (state = None, #estados de la maquina de turing
     st = state
     if not tape: tape = [blank]
     if pos <0 : pos += len(tape)
-    if pos >= len(tape) or pos < 0 : raise Error ("Se inicializa mal la posicion")
+   # if pos >= len(tape) or pos < 0 : raise Error ("Se inicializa mal la posicion")
     
     rules = dict(((s0, v0), (v1, dr, s1)) for (s0, v0, v1, dr, s1) in rules)
     """
