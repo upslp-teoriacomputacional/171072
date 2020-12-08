@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\FinalProject_WUMPUS_170089_170441_171072\\KillTheWumpus_170441_170089_171072.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\FinalProject_WUMPUS_170089_170441_171072\\KillTheWumpus_170441_170089_171072.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\FinalProject_WUMPUS_170089_170441_171072\\KillTheWumpus_170441_170089_171072.fsproj",
+        "projectName": "KillTheWumpus_170441_170089_171072",
+        "projectPath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\FinalProject_WUMPUS_170089_170441_171072\\KillTheWumpus_170441_170089_171072.fsproj",
+        "packagesPath": "C:\\Users\\vazqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\FinalProject_WUMPUS_170089_170441_171072\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vazqu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

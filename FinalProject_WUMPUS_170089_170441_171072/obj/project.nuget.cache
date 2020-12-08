@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KGzyugUNc2qLnzbWCuQF4IUlQyrB8DFMqv7y07/Dngg0SfsZT6rGC96hbyww4xke3eW7/2/IlnWhdi/LVmCQsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vazqu\\OneDrive - Universidad Politécnica de San Luis Potosí\\7mo Semestre\\Teoría Computacional\\171072\\FinalProject_WUMPUS_170089_170441_171072\\KillTheWumpus_170441_170089_171072.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vazqu\\.nuget\\packages\\fsharp.core\\4.7.2\\fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
