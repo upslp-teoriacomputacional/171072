@@ -27,22 +27,26 @@ In order for the implemententation of  to be made, concepts and topics regarding
 I did not understood quite well about mutable variables, and regular expressions were definitely a pain in the neck.
 
 
-## Link 1
+## Regular Expression Matching Can Be Simple And Fast
+
 [ This article ](http://swtch.com/~rsc/regexp/regexp1.html)
 simply explains regular Expressions used in different NFAs across different programming languages. 
 
-## Link 2
+## System.Text.RegularExpressions Namespace from .NET Documentation
+
 I found information on how to check Regular Expressions by character input in F# at [ Regular Expressions in F# ](https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions?view=netcore-3.1).
 
-## Link 3
+## Home-made Regular Expressions in F#: Thompson NFA
+
 This is a [source language](http://t0yv0.blogspot.com/2011/02/home-made-regular-expressions-in-f.html) that shows how to immplement a NFA in F#. First, the regular expressions themselves: the source language can be nicely described with a union type, encompassing the empty string, choice, concatenation, the Kleene star, and a token parser.
 
 
-## Link 4
+## Mutable Variables
 I read some examples on forums and I read something about "mutable variables". I learned how to 
 use them at [Mutable variables in F#]( https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/values/#:~:text=of%20functional%20programming.-,Mutable%20Variables,be%20modified%20in%20incorrect%20ways. ).
 
-## Link 5
+## Regular expressions from Rosseta Code
+
 Information about lambda expressions is found [here.](http://rosettacode.org/wiki/Regular_expressions) 
 
 
