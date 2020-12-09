@@ -1,4 +1,4 @@
-# 171072
+# 171072 - Rodolfo Emanuel Vázquez Reyes
 Repositorio para código fuente de Teoría Computacional.
 
 # Instructions
