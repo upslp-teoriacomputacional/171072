@@ -26,7 +26,7 @@ When I checked for the F# documentation regarding arrays, I found the 'rev' modu
 
 
 
-## Link 1
+## Arrays in F#
 [ This article ](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/arrays)
  explains operations and modules on different arrays. 
 
