@@ -26,18 +26,22 @@ This was the Turing Machine that had to be implemented.
 The hardest thing to understand was the translation of Python dictionaries to F#. 
 Instead, I used lists. 
 
-## Link 1
+## The not operator in Python
+
 [ This article ](https://www.jquery-az.com/4-demos-python-if-not-and-not-in-operator/#:~:text=In%20Python%2C%20if%20a%20variable,the%20value%20of%20x%20%3D%200.)
 simply explains if not statements in Python. 
 
-## Link 2
+## Exceptions: the raise Function
+
 I found information on how handle Exceptions using the raise function in F# [ Handling Exceptions in F# ](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/exception-handling/the-raise-function).
 
-## Link 3
+## Mutable Variables
+
 I read some examples on forums and I read something about "mutable variables". I learned how to 
 use them at [Mutable variables in F#]( https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/values/#:~:text=of%20functional%20programming.-,Mutable%20Variables,be%20modified%20in%20incorrect%20ways. ).
 
-## Link 4
+## Creating and Initializing Lists in F#
+
 Information about using Lists in F# is found [here.](https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/lists) 
 
 
