@@ -24,9 +24,9 @@ I ran this program from a Git Bash console; the terminal must be opened in the l
 be installed on the system. The command "dotnet run" must be used for the program to be executed. 
 
 ## Solutions
-## Link 1
+## System.Text.RegularExpressions from .NET documentation
 I found information on how to check Regular Expressions by character input in F# at <a href="https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions?view=netcore-3.1" target="\_blank"> (Regular Expressions in F#).
-## Link 2
+## Mutable Variables
 I read some examples on forums and I read something about "mutable variables". I learned how to 
 use them at  <a href="https://docs.microsoft.com/en-us/dotnet/fsharp/language-reference/values/#:~:text=of%20functional%20programming.-,Mutable%20Variables,be%20modified%20in%20incorrect%20ways." target="\_blank"> (Mutable Variables in F#).
 
