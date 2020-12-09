@@ -52,4 +52,3 @@ G:\User\Documents\PROYECTOS2020\TC\HuntTheWumpus\KillTheWumpus_170441_170089_171
 G:\User\Documents\PROYECTOS2020\TC\HuntTheWumpus\KillTheWumpus_170441_170089_171072\obj\Debug\net5.0\KillTheWumpus_170441_170089_171072.dll
 G:\User\Documents\PROYECTOS2020\TC\HuntTheWumpus\KillTheWumpus_170441_170089_171072\obj\Debug\net5.0\KillTheWumpus_170441_170089_171072.pdb
 G:\User\Documents\PROYECTOS2020\TC\HuntTheWumpus\KillTheWumpus_170441_170089_171072\obj\Debug\net5.0\KillTheWumpus_170441_170089_171072.genruntimeconfig.cache
-C:\Users\vazqu\OneDrive - Universidad Politécnica de San Luis Potosí\7mo Semestre\Teoría Computacional\171072\FinalProject_WUMPUS_170089_170441_171072\obj\Debug\net5.0\KillTheWumpus_170441_170089_171072.pdb
